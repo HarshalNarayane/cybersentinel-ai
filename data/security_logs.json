@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-10-01 10:01:12",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "failed_login",
+    "details": "Invalid password"
+  },
+  {
+    "timestamp": "2026-10-01 10:01:18",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "failed_login",
+    "details": "Invalid password"
+  },
+  {
+    "timestamp": "2026-10-01 10:01:24",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "failed_login",
+    "details": "Invalid password"
+  },
+  {
+    "timestamp": "2026-10-01 10:01:31",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "failed_login",
+    "details": "Invalid password"
+  },
+  {
+    "timestamp": "2026-10-01 10:02:02",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "successful_login",
+    "details": "Successful authentication"
+  },
+  {
+    "timestamp": "2026-10-01 10:02:15",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "new_device",
+    "details": "Previously unseen device"
+  },
+  {
+    "timestamp": "2026-10-01 10:03:11",
+    "user": "admin",
+    "ip": "185.22.91.44",
+    "device": "UNKNOWN-DEVICE",
+    "event": "privileged_access",
+    "details": "Admin privileges accessed"
+  }
+]
